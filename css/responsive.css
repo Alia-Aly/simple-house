@@ -1,0 +1,58 @@
+@media (min-width:250px) and (max-width:1200px) {
+    .parent{
+        width: 100%;
+    }
+    .logo{
+        bottom: 100px;
+        left: 15px;
+    }
+    .one p{
+        width:95% ;
+        margin: auto;
+    }
+    .box{
+        width: 65%;
+        margin: auto;
+    }
+    .box p{
+        margin: 10px 0px 20px;
+    }
+    .two{
+        flex-wrap: wrap;
+    }
+    .two .left,.two .right{
+        width: 95%;
+        margin: auto;
+    }
+    .two .left img{
+        width: 100%;
+    }
+    .cards{
+        width: 95%;
+    }
+    .card{
+        width: 95%;
+    }
+    .four{
+        flex-wrap: wrap;
+    }
+    .read{
+        width: 95%;
+        margin: auto;
+    }
+    .contacts{
+        flex-wrap: wrap;
+    }
+    .contact,.information{
+        width: 90%;
+        margin: auto;
+    }
+    .accordion{
+        width: 80%;
+        margin: auto;
+    }
+    .last p{
+        width: 95%;
+        margin: auto;
+    }
+}
